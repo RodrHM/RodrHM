@@ -3,24 +3,23 @@
 </div>  
   
 
-### <div align="center">Sobre mi
-Hola mundo, soy RodrHM un desarrollador full-stack developer 👨‍💻 🚀</div>  
-  
+<h1 align="center">Hi 👋, I'm RodrHM</h1>
+<h3 align="center">A passionate frontend developer from Argentina, Buenos Aires</h3>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+- 🔭 I’m currently working on **some personal projects to increase my knowledge**
 
-- 🌱 I’m currently learning TypeScript  
-  
+- 🌱 I’m currently learning **TypeScript and Python**
 
-- ⚡ Fun fact: I use tabs over spaces  
+- 📫 How to reach me **rodrigo-hm@outlook.com**
+
+- ⚡ Fun fact **I think I am funny**
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -38,8 +37,7 @@ Hola mundo, soy RodrHM un desarrollador full-stack developer 👨‍💻 🚀</d
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
+</td><td valign="top" width="50%">
 
 
 ### Backend  
@@ -50,9 +48,6 @@ Hola mundo, soy RodrHM un desarrollador full-stack developer 👨‍💻 🚀</d
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
